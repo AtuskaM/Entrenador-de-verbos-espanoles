@@ -136,3 +136,7 @@ a,.card button,.exercise a{color:#f3d49a}
 .options button .parallel,.bank-options button .parallel,.options button .parallel>span{font:inherit}
 .exercise .sentence,.exercise .sentence .parallel-es,.exercise .sentence .sk-only>.parallel-es{color:#ffda89}
 @media(max-width:650px){.options button,.bank-options button{font-size:23px;padding:14px 18px;min-height:64px}}
+@media(max-width:650px){.page-banner{background:linear-gradient(125deg,#552640,#38204f)!important}}
+.family-options li.family-path{border:2px solid #f3ca76;background:#3a1d33}
+.family-path-label{grid-column:1/-1;font:700 12px/1.4 var(--sans);letter-spacing:1.2px;text-transform:uppercase;color:var(--gold)}
+.family-path-label .parallel{display:inline-flex;width:auto;gap:8px}.family-path-label .parallel-sk{padding-left:8px;border-top:0!important;padding-top:0!important}

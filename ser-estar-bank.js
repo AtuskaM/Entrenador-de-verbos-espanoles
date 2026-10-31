@@ -92,11 +92,11 @@ const serEstarBank=[
 // estar + gerund, participle results, passive
 ['La abuela ___ durmiendo la siesta.','está','es','Babka si práve zdriemla.','Estar + gerundium: dej práve prebieha.','Estar + gerundio: una acción en curso.'],
 ['¿Qué ___ haciendo los niños?','están','son','Čo práve robia deti?','Prebiehajúci dej.','Una acción en desarrollo.'],
-['La cena ya ___ preparada.','está','es','Večera je už pripravená.','Výsledok predchádzajúceho deja.','El resultado de una acción anterior.'],
+['La cena ya ___ preparada.','está','es','Večera je už pripravená.','Výsledok niečoho, čo sa už stalo.','El resultado de una acción anterior.'],
 ['La puerta ___ cerrada con llave.','está','es','Dvere sú zamknuté.','Stav dverí ako výsledok.','El estado de la puerta como resultado.'],
-['La catedral ___ construida en el siglo XIII.','fue','estuvo','Katedrála bola postavená v 13. storočí.','Trpný rod deja: ser + participium.','La voz pasiva de una acción: ser + participio.'],
+['La catedral ___ construida en el siglo XIII.','fue','estuvo','Katedrála bola postavená v 13. storočí.','Trpný rod – hovoríme o tom, čo sa s katedrálou stalo (niekto ju postavil): ser + príčastie.','Voz pasiva: contamos lo que le pasó a la catedral (alguien la construyó): ser + participio.'],
 ['El cuadro ___ pintado por Velázquez.','fue','estuvo','Obraz namaľoval Velázquez.','Pasív: kto dej vykonal.','Pasiva: quién realizó la acción.'],
-['La casa ___ pintada de blanco desde el verano.','está','es','Dom je natretý nabielo od leta.','Estar + participium: výsledný stav.','Estar + participio: el estado resultante.'],
+['La casa ___ pintada de blanco desde el verano.','está','es','Dom je natretý nabielo od leta.','Estar + príčastie: stav, ktorý z toho vyplýva.','Estar + participio: el estado resultante.'],
 ['Las ventanas ___ rotas desde la tormenta.','están','son','Okná sú rozbité od búrky.','Výsledný stav po udalosti.','El estado que dejó un suceso.'],
 // expressions
 ['___ de acuerdo contigo.','Estoy','Soy','Súhlasím s tebou.','Pevné spojenie: estar de acuerdo.','Expresión fija: estar de acuerdo.'],
