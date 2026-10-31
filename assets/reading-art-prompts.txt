@@ -1,0 +1,17 @@
+Reading illustrations — RDM Spanish Trainer
+
+Method: built-in image_gen image generation. These three original atmospheric illustrations accompany the three opening readings. The 100 additional illustrations are recorded in reading-image-prompts.json. They are fictional settings, not documentary images of named places.
+
+Saved assets:
+assets/reading-library.png
+assets/reading-city.png
+assets/reading-ideas.png
+
+Library prompt:
+Use case: illustration-story. Asset type: wide website illustration for an adult Spanish reading and ideas trainer, RDM Language Studio visual palette. Create a richly detailed, elegant painterly scene of an inviting reading desk in a dark teal library. An open unlettered book, a brass compass and warm amber desk lamp in foreground; through an arched window a quiet Mediterranean harbour and a distant sailing ship at dusk. Deep almost-black teal surroundings, turquoise sea accents, antique gold highlights, warm cream paper. Intellectually curious and welcoming, sophisticated rather than childish. Wide landscape composition suitable for a banner, no people, no text, no lettering, no logos. Keep detail clear and refined, not cluttered.
+
+City prompt:
+Wide painterly illustration for an adult Spanish language reading website. A Mediterranean street café in Spain at golden hour, a small table with two coffee cups and a closed notebook, flowering balcony above, old bookshop and stone square behind. Dark teal shadows, warm antique gold light, turquoise accents, cream highlights. Rich elegant RDM Language Studio storybook visual atmosphere, sophisticated and inviting, no people, no text or lettering or logos. Landscape composition.
+
+Ideas prompt:
+Wide sophisticated painterly illustration for an adult Spanish reading and ideas website: a small museum and research study interior with an antique brass telescope, a sculptural object, books and a handwritten-looking but illegible notebook on a dark wooden desk, soft light through a high arched window. Almost black teal, antique gold, turquoise details and warm cream paper. Elegant richly detailed RDM Language Studio atmosphere, thoughtful, no people, no readable text, no logos. Landscape.

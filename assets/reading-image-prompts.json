@@ -1,0 +1,505 @@
+{
+  "method": "Built-in image_gen",
+  "images": [
+    {
+      "file": "reading-story-001.png",
+      "reading": "La carta sin destinatario",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La carta sin destinatario. Illustrate a specific central moment from this story: Entre las páginas del diario apareció una carta sin nombre. El capitán la había escrito antes de salir del puerto. Nadie quiso abrirla. Clara propuso guardarla hasta que alguien pudiera explicar por qué estaba allí. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-002.png",
+      "reading": "Una luz en la costa",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Una luz en la costa. Illustrate a specific central moment from this story: La luz se encendía cada noche a la misma hora. Inés creía que era una señal para los barcos. Cuando habló con el vecino, descubrió una explicación más sencilla: alguien dejaba la lámpara encendida para que su hermana encontrara el camino. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-003.png",
+      "reading": "El nombre de la tormenta",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El nombre de la tormenta. Illustrate a specific central moment from this story: «No llamemos desastre a lo que aún no conocemos», dijo Julia. El cielo estaba oscuro, pero el mar seguía tranquilo. El marinero más joven preguntó si debían volver. Julia decidió consultar el mapa antes de responder. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-004.png",
+      "reading": "Dos mapas",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Dos mapas. Illustrate a specific central moment from this story: Mateo extendió dos mapas sobre la mesa. En uno aparecía una cala que faltaba en el otro. No sabía cuál era más reciente. «Puede que los dos tengan razón», observó Sara: quizá mostraban la costa con propósitos distintos. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-005.png",
+      "reading": "El silencio del puerto",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El silencio del puerto. Illustrate a specific central moment from this story: A las seis, el puerto parecía vacío. Sin embargo, Elena oía pasos dentro de los barcos y voces detrás de las puertas. Había confundido la falta de movimiento visible con la ausencia de trabajo. Sacó la libreta y cambió la primera frase de su relato. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-006.png",
+      "reading": "La cuerda nueva",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La cuerda nueva. Illustrate a specific central moment from this story: La cuerda nueva era más ligera, pero Tomás seguía usando la antigua. «Nunca me ha fallado», explicó. Su compañera no discutió: le pidió que compararan ambas antes de elegir. La costumbre podía ser una razón, pero no la única. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-007.png",
+      "reading": "Una isla imaginada",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Una isla imaginada. Illustrate a specific central moment from this story: Si llegáramos a una isla desconocida, ¿qué buscaríamos primero? Las respuestas del grupo fueron distintas: agua, sombra, un lugar alto. Al final comprendieron que cada elección revelaba una preocupación diferente, no necesariamente un error. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-008.png",
+      "reading": "El regreso previsto",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El regreso previsto. Illustrate a specific central moment from this story: «Antes del anochecer habremos vuelto», prometió el patrón. Lucía preguntó qué harían si cambiaba el viento. La pregunta no molestó a nadie: permitió acordar otro plan. Tener una alternativa les dio más tranquilidad que repetir la promesa. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-009.png",
+      "reading": "La fotografía torcida",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La fotografía torcida. Illustrate a specific central moment from this story: En la foto, el horizonte estaba torcido. Andrés quiso borrarla, pero su amiga le pidió que esperara. Aquel defecto le recordaba el movimiento del barco mejor que una imagen perfecta. Guardaron las dos versiones y discutieron cuál contaba más. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-010.png",
+      "reading": "La voz de la radio",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La voz de la radio. Illustrate a specific central moment from this story: Durante la travesía escucharon una voz que pedía repetir un mensaje. Nadie respondió hasta comprobar el canal. Después supieron que la llamada no era para ellos. Haber entendido las palabras no significaba haber entendido la situación. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-011.png",
+      "reading": "La página doblada",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La página doblada. Illustrate a specific central moment from this story: Clara encontró una página doblada en el libro de la biblioteca. La frase marcada no parecía importante. Solo al terminar la novela entendió por qué alguien había querido volver a ella. Empezó otra vez, ahora con una pregunta distinta. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-012.png",
+      "reading": "Un narrador demasiado seguro",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Un narrador demasiado seguro. Illustrate a specific central moment from this story: El narrador aseguraba conocer los motivos de todos. Sin embargo, cuando su hermano hablaba, cambiaba de tema. Irene empezó a desconfiar no de sus datos, sino de sus silencios. Quizá lo más revelador fuera aquello que evitaba contar. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-013.png",
+      "reading": "La palabra que faltaba",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La palabra que faltaba. Illustrate a specific central moment from this story: Dos traducciones usaban palabras distintas para la misma escena. Una sonaba amable; la otra, distante. El grupo dejó de preguntar cuál era correcta y empezó a preguntar qué relación creaba cada una entre los personajes. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-014.png",
+      "reading": "Leer el final primero",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Leer el final primero. Illustrate a specific central moment from this story: Pablo siempre leía la última página antes de empezar. Ana decía que así destruía la sorpresa. Él respondía que conocer el destino le permitía mirar mejor el camino. Ninguno convenció al otro, pero ambos descubrieron otra forma de leer. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-015.png",
+      "reading": "El personaje antipático",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El personaje antipático. Illustrate a specific central moment from this story: «No me gustaría cenar con ella», dijo Marta sobre la protagonista. «Pero quiero seguir leyéndola». La contradicción solo era aparente: una persona agradable y un personaje interesante no tienen por qué ser lo mismo. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-016.png",
+      "reading": "Un título prestado",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Un título prestado. Illustrate a specific central moment from this story: La editora propuso un título más claro. El autor aceptó hasta que vio la portada: parecía anunciar una aventura, no una conversación entre dos hermanas. Decidieron buscar una frase menos brillante, pero más fiel al libro. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-017.png",
+      "reading": "La lectura en voz alta",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La lectura en voz alta. Illustrate a specific central moment from this story: Al escuchar el párrafo, Luis se rio. Cuando lo había leído en silencio, no había notado ninguna broma. La pausa y el tono cambiaban la interpretación. Pidió que alguien más lo leyera sin imitar la primera voz. «Me alegra que hayas notado la broma», comentó Ana. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-018.png",
+      "reading": "La reseña breve",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La reseña breve. Illustrate a specific central moment from this story: Elena escribió que la novela era aburrida. Antes de publicarlo, se preguntó qué quería decir exactamente. Borró el adjetivo y explicó qué escenas le habían parecido repetidas. Su crítica se volvió más larga, pero también más útil. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-019.png",
+      "reading": "La nota al margen",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La nota al margen. Illustrate a specific central moment from this story: En el margen alguien había escrito: «No estoy de acuerdo». No explicaba con qué. La nota intrigó más a Javier que el párrafo. Imaginó tres lectores distintos y comprendió cuánto rellenamos nosotros cuando falta una explicación. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-020.png",
+      "reading": "Una biblioteca pequeña",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Una biblioteca pequeña. Illustrate a specific central moment from this story: La biblioteca tenía pocos libros, pero todos llevaban señales de uso. Cada viernes alguien recomendaba uno sin decir el argumento. Hablar de lo que una lectura había provocado resultó más interesante que resumir sus acontecimientos. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-021.png",
+      "reading": "El banco del museo",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El banco del museo. Illustrate a specific central moment from this story: Nora entró para ver una exposición y acabó mirando a los visitantes. Frente al mismo cuadro, unos pasaban deprisa y otros se quedaban sentados. Dibujó las posturas, no la pintura. Había encontrado otra exposición dentro de la primera. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-022.png",
+      "reading": "La canción desconocida",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La canción desconocida. Illustrate a specific central moment from this story: El músico olvidó anunciar el título. Al terminar, una oyente dijo que le había recordado a su ciudad. Otra pensó en una despedida. Él no corrigió a ninguna: la canción no trataba de esos lugares, pero había llegado hasta ellos. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-023.png",
+      "reading": "El cuadro sin cartel",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El cuadro sin cartel. Illustrate a specific central moment from this story: Faltaba el cartel junto al cuadro. Dos visitantes discutían si era antiguo o reciente. Cuando apareció la encargada, ninguno pidió primero la fecha. Querían saber por qué habían usado la antigüedad como medida de su valor. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-024.png",
+      "reading": "Una escultura tocada",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Una escultura tocada. Illustrate a specific central moment from this story: «No la toques», dijo un visitante. La guía sonrió y señaló el aviso: esa escultura se había creado para explorarla con las manos. La norma que él recordaba no servía allí. Antes de prohibir, habría sido mejor preguntar. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-025.png",
+      "reading": "La silla vacía",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La silla vacía. Illustrate a specific central moment from this story: En el escenario solo había una silla. Durante varios minutos nadie salió. Algunos espectadores empezaron a hablar; otros seguían esperando. Cuando apareció la actriz, preguntó qué habían imaginado. La obra ya había comenzado sin que lo supieran. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-026.png",
+      "reading": "El ensayo abierto",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El ensayo abierto. Illustrate a specific central moment from this story: La pianista repitió un pasaje seis veces. En el concierto habría parecido natural; allí se oía el esfuerzo. Carlos salió con más admiración, no menos. Ver cómo se construía la facilidad le permitió escucharla de otra manera. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-027.png",
+      "reading": "La restauración",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La restauración. Illustrate a specific central moment from this story: La restauradora explicó que no iba a dejar el cuadro como nuevo. Quería conservar sus huellas sin ocultar los daños importantes. Un visitante entendió entonces que cuidar algo no siempre significa borrar su historia. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-028.png",
+      "reading": "Un aplauso fuera de tiempo",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Un aplauso fuera de tiempo. Illustrate a specific central moment from this story: Alguien aplaudió antes de que acabara la música. Marta sintió vergüenza por esa persona. Después el director agradeció el entusiasmo y explicó la pausa. La corrección había sido clara sin convertir un error en una humillación. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-029.png",
+      "reading": "El retrato del vecino",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El retrato del vecino. Illustrate a specific central moment from this story: El pintor exageró las manos y redujo el tamaño del rostro. El vecino se reconoció enseguida: llevaba años trabajando con madera. «Es más yo que una fotografía», dijo. La semejanza no dependía de copiar todas las proporciones. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-030.png",
+      "reading": "La entrada gratuita",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La entrada gratuita. Illustrate a specific central moment from this story: El museo abrió una tarde sin cobrar entrada. Irene esperaba muchas visitas, pero casi nadie llegó. Al preguntar en el barrio, descubrió que pocos conocían el horario. El precio no había sido la única barrera. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-031.png",
+      "reading": "La plaza sin bancos",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La plaza sin bancos. Illustrate a specific central moment from this story: La plaza nueva tenía árboles, luces y una fuente, pero ningún banco. Los vecinos la cruzaban sin quedarse. Cuando colocaron unas sillas durante una fiesta, aparecieron conversaciones que antes no ocurrían. A veces un objeto pequeño cambia el uso de todo un espacio. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-032.png",
+      "reading": "El camino más corto",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El camino más corto. Illustrate a specific central moment from this story: El teléfono aconsejaba ir por una avenida. Rosa eligió las calles pequeñas porque allí encontraba sombra y menos ruido. Llegó cinco minutos después, pero más descansada. La ruta más corta no había sido, para ella, la mejor. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-033.png",
+      "reading": "La tienda cerrada",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La tienda cerrada. Illustrate a specific central moment from this story: El cartel decía «Volvemos enseguida». Pasó media hora. Un cliente se enfadó; otro imaginó un problema familiar. Ninguno sabía qué había ocurrido. La misma falta de información había producido dos historias opuestas. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-034.png",
+      "reading": "Un ruido conocido",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Un ruido conocido. Illustrate a specific central moment from this story: El reloj de la torre dejó de sonar durante una semana. Al principio, muchos celebraron el silencio. Después descubrieron que lo usaban sin darse cuenta para organizar la mañana. Echaron de menos algo de lo que antes se quejaban. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-035.png",
+      "reading": "La cola invisible",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La cola invisible. Illustrate a specific central moment from this story: En la panadería nadie estaba colocado en fila. Inés preguntó quién era el último y una mujer levantó la mano. El orden existía, aunque no se veía en el espacio. Para entenderlo había que escuchar a las personas, no mirar sus posiciones. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-036.png",
+      "reading": "El mural del barrio",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El mural del barrio. Illustrate a specific central moment from this story: El mural mostraba comercios que ya no existían. Unos vecinos lo veían como un homenaje; otros decían que faltaban los negocios nuevos. La discusión terminó con una idea: dejar un espacio sin pintar para lo que todavía estaba cambiando. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-037.png",
+      "reading": "Una puerta pesada",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Una puerta pesada. Illustrate a specific central moment from this story: En el edificio habían cambiado la puerta por otra más segura. Después llegaron las quejas: abrirla exigía demasiada fuerza. La comunidad tuvo que pensar en dos necesidades a la vez. Una mejora para unos podía convertirse en una barrera para otros. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-038.png",
+      "reading": "El árbol y la mesa",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El árbol y la mesa. Illustrate a specific central moment from this story: El dueño del café quería ampliar la terraza. El jardinero señaló que el árbol seguiría creciendo. En vez de cortarlo, diseñaron una mesa con espacio alrededor del tronco. El límite había obligado a imaginar una solución mejor. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-039.png",
+      "reading": "La esquina compartida",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La esquina compartida. Illustrate a specific central moment from this story: En la esquina se cruzaban bicicletas, peatones y repartidores. Cada grupo decía que los demás estorbaban. Durante una reunión dibujaron sus recorridos en el mismo papel. Por primera vez vieron el problema como un cruce de necesidades, no de enemigos. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-040.png",
+      "reading": "La dirección antigua",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La dirección antigua. Illustrate a specific central moment from this story: La carta llegó a una tienda que había cambiado de dueño. El nuevo propietario quiso devolverla. Una vecina reconoció el nombre y pidió tiempo para localizar al destinatario. La dirección seguía siendo útil porque alguien recordaba su historia. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-041.png",
+      "reading": "La medida repetida",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La medida repetida. Illustrate a specific central moment from this story: El primer resultado parecía extraordinario. Antes de anunciarlo, el equipo repitió la medida con otro instrumento. La diferencia se redujo mucho. No habían perdido un descubrimiento: habían aprendido a distinguir una señal de un error de medida. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-042.png",
+      "reading": "El gráfico sin escala",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El gráfico sin escala. Illustrate a specific central moment from this story: Las dos líneas parecían separarse mucho. Cuando Julia añadió la escala, la diferencia resultó pequeña. Los datos no habían cambiado; había cambiado su presentación. La reunión pasó de celebrar un gran efecto a preguntar si aquel efecto importaba. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-043.png",
+      "reading": "La pregunta incómoda",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La pregunta incómoda. Illustrate a specific central moment from this story: Un estudiante preguntó cómo sabrían que la explicación era falsa. Hubo un silencio largo. La profesora le agradeció la pregunta. «Explicad qué os haría cambiar de idea», pidió. Hasta entonces habían reunido ejemplos favorables, pero no habían decidido qué los haría cambiar de idea. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-044.png",
+      "reading": "El cuaderno de campo",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El cuaderno de campo. Illustrate a specific central moment from this story: Luis anotaba también los días en que no veía ningún pájaro. Su compañero pensaba que aquellas páginas no servían. Al revisar el mes completo, comprendieron que las ausencias ayudaban a formular preguntas que una colección de encuentros habría ocultado. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-045.png",
+      "reading": "Una explicación demasiado elegante",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Una explicación demasiado elegante. Illustrate a specific central moment from this story: La hipótesis encajaba con casi todo y era fácil de recordar. Por eso costaba discutirla. Ana separó en dos columnas lo que explicaba y lo que solo parecía explicar. La belleza de la idea no desapareció, pero dejó de sustituir a las pruebas. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-046.png",
+      "reading": "El experimento del reloj",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El experimento del reloj. Illustrate a specific central moment from this story: Dos grupos hicieron la misma tarea. Uno podía ver un reloj; el otro no. Antes de comparar resultados, la investigadora comprobó si habían recibido las mismas instrucciones. Una diferencia pequeña en la preparación podía explicar una diferencia grande al final. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-047.png",
+      "reading": "La lista de excepciones",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La lista de excepciones. Illustrate a specific central moment from this story: Pedro guardaba las excepciones al final de su informe. Una colega empezó a leer por allí. No quería rechazar la propuesta, sino entender dónde dejaba de funcionar. Las excepciones acabaron definiendo mejor el alcance de la idea. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-048.png",
+      "reading": "El dato que faltaba",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El dato que faltaba. Illustrate a specific central moment from this story: El promedio había mejorado, pero nadie sabía qué había ocurrido con las personas que abandonaron el proyecto. Marta pidió incluirlas en la discusión. Un resultado sobre quienes terminaron no respondía automáticamente a una pregunta sobre todos. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-049.png",
+      "reading": "La respuesta provisional",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La respuesta provisional. Illustrate a specific central moment from this story: «Esta es nuestra mejor explicación por ahora», dijo la ponente. Un oyente interpretó la cautela como falta de conocimiento. Ella distinguió entre no saber nada y saber qué parte de una respuesta sigue abierta. La precisión también podía sonar insegura. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-050.png",
+      "reading": "Dos observadores",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Dos observadores. Illustrate a specific central moment from this story: Ante la misma planta, una persona describió el color y otra contó las hojas. No se contradecían: habían empezado con preguntas diferentes. Antes de comparar sus notas, tuvieron que explicar qué estaban intentando averiguar. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-051.png",
+      "reading": "La reunión de diez minutos",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La reunión de diez minutos. Illustrate a specific central moment from this story: El equipo decidió reducir la reunión a diez minutos. Hablaron menos, pero salieron con dudas. La semana siguiente enviaron antes las preguntas y dejaron tiempo para las difíciles. Ahorrar minutos no había sido lo mismo que ahorrar trabajo. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-052.png",
+      "reading": "La herramienta gastada",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La herramienta gastada. Illustrate a specific central moment from this story: El aprendiz quiso sustituir el cepillo viejo del carpintero. Este le mostró cómo ajustarlo. La herramienta seguía siendo útil, aunque exigía conocerla. Más tarde probaron también una nueva: la experiencia no tenía por qué convertirse en rechazo al cambio. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-053.png",
+      "reading": "Un informe demasiado limpio",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Un informe demasiado limpio. Illustrate a specific central moment from this story: El documento final no mostraba ninguna duda. Ana recordó las discusiones del equipo y pidió recuperar algunas. No quería presentar un trabajo peor, sino permitir que otro lector entendiera qué se había decidido y por qué. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-054.png",
+      "reading": "La pregunta del recién llegado",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La pregunta del recién llegado. Illustrate a specific central moment from this story: Llevaban años usando tres formularios. El nuevo compañero preguntó por qué no bastaba uno. Nadie se sintió cómodo con la pregunta, pero tampoco supo responder. Al revisar el proceso, descubrieron que dos documentos repetían la misma información. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-055.png",
+      "reading": "La corrección invisible",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La corrección invisible. Illustrate a specific central moment from this story: Luis arregló un error antes de que el equipo lo viera. Después nadie entendió por qué había retrasado la entrega. Aprendió que solucionar un problema y comunicarlo eran tareas distintas. La siguiente vez dejó una nota breve sobre el cambio. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-056.png",
+      "reading": "El plazo realista",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El plazo realista. Illustrate a specific central moment from this story: «Lo tendremos listo mañana», dijo alguien con entusiasmo. Teresa preguntó qué habría que dejar sin hacer para cumplirlo. La pregunta cambió la conversación: ya no hablaban de voluntad, sino de recursos y prioridades. La fecha se movió dos días. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-057.png",
+      "reading": "Una buena renuncia",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Una buena renuncia. Illustrate a specific central moment from this story: El proyecto tenía demasiadas funciones. Quitar una parecía una derrota. Cuando probaron la versión reducida, los usuarios entendieron mejor para qué servía. Habían renunciado a una posibilidad para que las demás tuvieran sentido. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-058.png",
+      "reading": "El elogio concreto",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El elogio concreto. Illustrate a specific central moment from this story: «Buen trabajo» alegró a Elena, pero no le enseñó qué debía repetir. Otro compañero mencionó cómo había aclarado una tabla confusa. Esa observación le dio una herramienta para el siguiente informe, además de una alegría. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-059.png",
+      "reading": "La pausa compartida",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La pausa compartida. Illustrate a specific central moment from this story: Durante una pausa surgió la solución que la reunión no había encontrado. Nadie estaba mirando la pantalla. La conversación dejó de seguir el orden del documento y conectó dos problemas separados. Después volvieron a la mesa para comprobar la idea. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-060.png",
+      "reading": "El desacuerdo escrito",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El desacuerdo escrito. Illustrate a specific central moment from this story: En persona todos parecían de acuerdo. Por escrito aparecieron tres objeciones. No habían cambiado de opinión: necesitaban tiempo y un modo distinto de explicarse. El coordinador decidió recoger comentarios antes de la siguiente reunión. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-061.png",
+      "reading": "Cambiar de opinión",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Cambiar de opinión. Illustrate a specific central moment from this story: Al empezar la conversación, Vera estaba segura. Después escuchó un ejemplo que no había considerado. «Ahora lo veo distinto», dijo. Nadie celebró haber ganado; la conversación había servido precisamente para que una postura pudiera cambiar. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-062.png",
+      "reading": "El ejemplo extremo",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El ejemplo extremo. Illustrate a specific central moment from this story: Para defender la norma, Pablo presentó un caso excepcional. Ana le pidió que imaginaran también un día corriente. No negaba que el caso fuera posible; preguntaba si debía organizar todas las decisiones habituales. La discusión cambió de escala. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-063.png",
+      "reading": "Dos preguntas distintas",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Dos preguntas distintas. Illustrate a specific central moment from this story: Luis explicaba por qué había ocurrido el error. Marta seguía preguntando quién debía responder. Parecían discutir, pero intentaban resolver problemas diferentes. Cuando separaron causa y responsabilidad, pudieron avanzar sin fingir que habían dicho lo mismo. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-064.png",
+      "reading": "El acuerdo incompleto",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El acuerdo incompleto. Illustrate a specific central moment from this story: Todos aprobaron la frase «Hay que mejorar el servicio». Sin embargo, cada uno imaginaba una mejora diferente. Antes de votar el presupuesto, escribieron qué cambios esperaban ver. El acuerdo parecía menor, pero por fin se podía comprobar. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-065.png",
+      "reading": "La pregunta antes del consejo",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La pregunta antes del consejo. Illustrate a specific central moment from this story: En cuanto oyó el problema, Diego empezó a proponer soluciones. Su amiga lo interrumpió con suavidad: «Primero quiero que entiendas qué me preocupa». Él dejó de buscar una respuesta y empezó a hacer preguntas. La ayuda cambió de forma. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-066.png",
+      "reading": "Una palabra compartida",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Una palabra compartida. Illustrate a specific central moment from this story: Ambos defendían la libertad, pero usaban ejemplos opuestos. En vez de repetir la palabra, describieron situaciones concretas. Descubrieron que una discusión sobre un principio también podía esconder distintas experiencias de lo que significa perderlo. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-067.png",
+      "reading": "La mayoría silenciosa",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La mayoría silenciosa. Illustrate a specific central moment from this story: Tres personas hablaron casi toda la reunión. Después alguien dijo que todos habían apoyado la propuesta. Julia señaló que el silencio no permitía saberlo. Repartieron papeles para recoger respuestas sin nombres. El resultado fue menos uniforme de lo esperado. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-068.png",
+      "reading": "Defender la otra opción",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Defender la otra opción. Illustrate a specific central moment from this story: La moderadora pidió que cada participante explicara la opción contraria antes de criticarla. Al principio pareció una pérdida de tiempo. Luego disminuyeron las discusiones sobre cosas que nadie había dicho. Comprender no les obligó a estar de acuerdo. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-069.png",
+      "reading": "La decisión reversible",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La decisión reversible. Illustrate a specific central moment from this story: El grupo no lograba elegir una distribución para la sala. Inés propuso probar una durante una semana. Saber que podrían cambiarla redujo la tensión. No necesitaban acertar para siempre, sino aprender qué funcionaba al usar el espacio. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-070.png",
+      "reading": "El último turno",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El último turno. Illustrate a specific central moment from this story: Cada uno quería cerrar la discusión con una frase definitiva. La conversación se alargó sin añadir ideas. Alguien propuso terminar con una pregunta que ambos consideraran importante. Dejaron de competir por la conclusión y acordaron qué investigar después. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-071.png",
+      "reading": "El hotel equivocado",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El hotel equivocado. Illustrate a specific central moment from this story: La reserva estaba hecha, pero en un hotel de nombre parecido. En recepción nadie podía cambiarla directamente. La viajera explicó el error sin buscar culpables. Al cabo de unos minutos, habían encontrado una solución entre los dos establecimientos. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-072.png",
+      "reading": "Una tarde sin programa",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Una tarde sin programa. Illustrate a specific central moment from this story: La lluvia canceló la excursión. Samuel pensó que habían perdido la tarde. Entraron en una pequeña librería para esperar y terminaron conversando con la dueña. Años después recordaría aquella charla mejor que las visitas que sí habían planeado. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-073.png",
+      "reading": "El menú sin fotografías",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El menú sin fotografías. Illustrate a specific central moment from this story: Lucía no reconocía los nombres del menú. En vez de pedir lo conocido, preguntó qué llevaba cada plato. La explicación del camarero incluyó un recuerdo de su casa. La comida empezó antes de que llegaran los platos. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-074.png",
+      "reading": "La visita demasiado rápida",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La visita demasiado rápida. Illustrate a specific central moment from this story: Querían ver cuatro pueblos en un día. En el primero encontraron un mercado y cambiaron de idea. «Volveremos otro día para los demás», dijeron. No habían completado la lista, pero habían dejado de mirar el reloj. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-075.png",
+      "reading": "Una dirección en dos idiomas",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Una dirección en dos idiomas. Illustrate a specific central moment from this story: En el mapa aparecía un nombre y en el letrero otro. El visitante pensó que estaba perdido. Una vecina le explicó que ambos se referían al mismo lugar. Aprendió a preguntar antes de decidir que una diferencia era un error. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-076.png",
+      "reading": "El viaje de vuelta",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El viaje de vuelta. Illustrate a specific central moment from this story: Durante la ida, Rosa apenas miró por la ventana. A la vuelta reconoció el río del que le habían hablado y buscó el puente. El paisaje era el mismo; lo que podía ver en él había cambiado con una conversación. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-077.png",
+      "reading": "La maleta ligera",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La maleta ligera. Illustrate a specific central moment from this story: Marcos llevaba objetos para cualquier imprevisto. Al hacer la maleta, notó que casi no quedaba espacio. Eligió algunas cosas y dejó otras. No podía eliminar toda incertidumbre, pero sí decidir cuánto peso quería darle. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-078.png",
+      "reading": "Un consejo local",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Un consejo local. Illustrate a specific central moment from this story: La guía recomendaba la vista desde arriba. Un vecino sugirió mirar el edificio desde una calle estrecha. Elena probó ambos lugares. No tuvo que elegir una recomendación contra la otra: cada perspectiva respondía a una pregunta diferente. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-079.png",
+      "reading": "La postal tardía",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La postal tardía. Illustrate a specific central moment from this story: La postal llegó cuando su autora ya había regresado. Parecía inútil anunciar un viaje terminado. Sin embargo, su amiga la colocó junto al escritorio: no era una noticia urgente, sino un gesto que mostraba que alguien había pensado en ella desde lejos. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-080.png",
+      "reading": "Preguntar sin mapa",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Preguntar sin mapa. Illustrate a specific central moment from this story: El móvil se apagó antes de llegar. Al preguntar por la estación, Javier recibió tres indicaciones y una breve conversación sobre el barrio. Tardó más, pero dejó de sentir que atravesaba un lugar sin conocer a nadie. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-081.png",
+      "reading": "El olor del cuaderno",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El olor del cuaderno. Illustrate a specific central moment from this story: Al abrir el cuaderno, Isabel recordó una habitación que creía olvidada. No apareció una fecha ni una historia completa, sino una luz sobre la mesa. Escribió lo que recordaba y dejó en blanco lo que no sabía, sin intentar completar la escena. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-082.png",
+      "reading": "Dos versiones de una cena",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Dos versiones de una cena. Illustrate a specific central moment from this story: Los amigos recordaban la misma cena de maneras distintas. Uno hablaba de la comida; otro, de una conversación. Al comparar recuerdos no encontraron una versión que lo incluyera todo. Cada relato mostraba dónde había estado la atención de quien lo contaba. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-083.png",
+      "reading": "La taza reparada",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La taza reparada. Illustrate a specific central moment from this story: La taza tenía una línea visible donde se había roto. El taller ofreció ocultarla, pero Ana prefirió conservarla. Le recordaba el día en que decidió reparar en vez de tirar. La marca ya no era solo un defecto. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-084.png",
+      "reading": "El mensaje guardado",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El mensaje guardado. Illustrate a specific central moment from this story: Pedro iba a borrar una conversación antigua. Entre mensajes prácticos encontró una frase amable que ya no recordaba. Guardó solo esa parte. El archivo dejó de ser una acumulación y se convirtió en una elección de lo que quería conservar. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-085.png",
+      "reading": "La receta sin cantidades",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La receta sin cantidades. Illustrate a specific central moment from this story: La receta decía «un poco» y «hasta que esté bien». A Laura le parecieron instrucciones inútiles. Al cocinar con su tío, entendió qué textura debía buscar. Algunas palabras solo se aclaraban al compartir la experiencia que resumían. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-086.png",
+      "reading": "La fotografía sin fecha",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La fotografía sin fecha. Illustrate a specific central moment from this story: Nadie recordaba el año de la fotografía. Sin embargo, reconocieron la ventana, el abrigo y un perro que siempre se escondía. La conversación produjo una historia más rica que una fecha, aunque decidieron no inventar la que faltaba. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-087.png",
+      "reading": "Un oficio contado",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Un oficio contado. Illustrate a specific central moment from this story: La entrevista empezó con fechas y terminó con un gesto: el zapatero mostró cómo escuchaba una suela al doblarla. La grabación conservó el sonido. Quien transcribiera solo las palabras perdería una parte de la explicación. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-088.png",
+      "reading": "La fecha del diario",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La fecha del diario. Illustrate a specific central moment from this story: «Hoy ha sido un día normal», había escrito Sofía. Veinte años después, los detalles normales le resultaban extraños: una tienda desaparecida, un trayecto distinto, una llamada esperada. Lo cotidiano también había guardado una historia. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-089.png",
+      "reading": "Cambiar el nombre de una carpeta",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Cambiar el nombre de una carpeta. Illustrate a specific central moment from this story: La carpeta se llamaba «Pendiente». Contenía proyectos abandonados y otros que aún interesaban. Al separarlos, Miguel dejó de sentir que todos eran deudas. A algunos les puso otro nombre: ideas que habían servido para llegar a algo distinto. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-090.png",
+      "reading": "La historia que no era suya",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La historia que no era suya. Illustrate a specific central moment from this story: Tomás contaba una anécdota como si la hubiera vivido. Su hermana le recordó que la había oído de otro. Se rio, pero corrigió la presentación. La historia seguía siendo buena; lo que había cambiado era la procedencia del relato. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-091.png",
+      "reading": "La lista para descansar",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La lista para descansar. Illustrate a specific central moment from this story: Nuria hizo una lista de todo lo que haría durante su día libre. Cuando vio que no cabía en la página, añadió una última tarea: «No cumplir esta lista». Por primera vez en semanas, una tarea le produjo alivio antes de empezar. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-092.png",
+      "reading": "El libro de instrucciones",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El libro de instrucciones. Illustrate a specific central moment from this story: La cafetera nueva traía un manual enorme. Luis preparó café antes de leerlo y se sintió orgulloso. Después descubrió que el capítulo más largo explicaba cómo limpiarla. Había dominado la parte que menos tiempo ocuparía en su relación con la máquina. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-093.png",
+      "reading": "Un silencio muy largo",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Un silencio muy largo. Illustrate a specific central moment from this story: «Voy a hablar solo un minuto», anunció el invitado. Cinco minutos después explicó que todavía no había empezado su argumento. En la mesa alguien preguntó si el minuto incluía la introducción. La risa logró lo que una interrupción seria no había conseguido. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-094.png",
+      "reading": "La contraseña perfecta",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La contraseña perfecta. Illustrate a specific central moment from this story: Marta inventó una contraseña tan difícil que no podía recordarla. «Es muy segura: ni siquiera yo puedo entrar», bromeó. Después buscó una forma de organizar sus accesos. El chiste no resolvió el problema, pero le permitió reconocerlo sin enfadarse consigo misma. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-095.png",
+      "reading": "El paraguas previsor",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El paraguas previsor. Illustrate a specific central moment from this story: Pedro llevaba paraguas porque siempre podía llover. Su amiga llevaba uno porque podía hacer sol y quería sombra. Cuando se cruzaron en la calle, ambos dijeron: «Menos mal que venía preparado». El mismo objeto justificaba previsiones contrarias. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-096.png",
+      "reading": "La opinión del gato",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La opinión del gato. Illustrate a specific central moment from this story: El grupo discutía dónde colocar el sillón. Movieron muebles durante una hora. El gato esperó a que terminaran y se tumbó en la caja vacía. Nadie había propuesto aquella opción, que además tenía la ventaja de no necesitar montaje. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-097.png",
+      "reading": "El consejo no solicitado",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El consejo no solicitado. Illustrate a specific central moment from this story: «Yo en tu lugar descansaría», le dijo Bruno a quien estaba preparando la cena para todos. Ella le entregó el cuchillo y una cebolla. «Perfecto, tú en mi lugar». Bruno comprendió que algunas frases se entienden mejor cuando se toman en serio. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-098.png",
+      "reading": "El cartel del silencio",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: El cartel del silencio. Illustrate a specific central moment from this story: La biblioteca puso un cartel enorme pidiendo silencio. Todos se detenían a comentarlo. La bibliotecaria lo cambió por uno pequeño junto a la entrada. El mensaje dejó de ser el tema de conversación y empezó a cumplir su función. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-099.png",
+      "reading": "Una planta muy independiente",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: Una planta muy independiente. Illustrate a specific central moment from this story: Al volver del viaje, Elena encontró todas las plantas sanas menos una. Era la única a la que había dejado un cartel: «No necesita cuidados». Su vecino se había tomado la frase demasiado en serio. Acordaron usar instrucciones menos filosóficas la próxima vez. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    },
+    {
+      "file": "reading-story-100.png",
+      "reading": "La última palabra del diccionario",
+      "prompt": "Use case: illustration-story. Create one landscape illustration for an adult Spanish reading trainer, RDM Language Studio. Story title: La última palabra del diccionario. Illustrate a specific central moment from this story: Tras buscar tres palabras, Luis cerró el diccionario satisfecho. Su amiga le preguntó si ya sabía todo el español. «No, pero he encontrado tres cosas que ayer no sabía». La broma dejó una medida del progreso menos espectacular y más justa. Style: richly detailed painterly realism, Mediterranean atmosphere, deep teal shadows, turquoise accents, antique gold and warm amber light, sophisticated literary illustration. Wide 3:2 composition, no lettering, no captions, no watermark. One coherent scene, not a collage."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+.parallel{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:22px;align-items:start;width:100%;text-align:left}.parallel>span{display:block;min-width:0;overflow-wrap:anywhere}.parallel-sk{border-left:1px solid #ad986755;padding-left:22px}.language-tag{display:block;font:700 10px/1.5 'DM Sans',Arial,sans-serif;letter-spacing:1.6px;margin:0 0 9px;color:inherit;opacity:.75}.parallel-copy{gap:25px}.parallel-copy .parallel-sk{font-size:inherit}.sentence .parallel{gap:26px}.sentence .parallel-sk{font-family:'Libre Caslon Display',Georgia,serif;font-size:inherit;color:#214951}.parallel-reading{line-height:1.9;gap:30px}.reading-text{max-width:none}.parallel-reading .parallel-sk{padding-left:30px}.parallel-nav{gap:10px;font-size:13px;line-height:1.45}.parallel-nav .language-tag{display:none}.parallel-nav .parallel-sk{padding-left:10px}.bilingual-mode nav button{display:grid;grid-template-columns:25px 1fr;padding:14px 9px}.bilingual-mode .hero h1{font-size:42px}.bilingual-mode .cards{grid-template-columns:repeat(2,minmax(0,1fr))}.bilingual-mode .cards>.card:last-child:nth-child(odd){grid-column:1/-1}.expression-example{padding:18px;margin-top:15px;border-radius:8px;background:#eee6d1;font-style:italic}.answer-sentence .parallel{font-size:24px}.feedback .parallel{font-size:18px;line-height:1.65}.feedback .answer-sentence .parallel{font-size:24px}.options button .parallel{font-size:16px}.options button .language-tag{font-size:9px}.lead .parallel,.rule .parallel{line-height:1.7}.bilingual-mode .section-head h2{font-size:29px}.bilingual-mode .card h3{font-size:26px}.bilingual-mode .expression h3{width:100%}.bilingual-mode .hero .lead{max-width:none}@media(max-width:900px){.bilingual-mode .cards{grid-template-columns:1fr}.bilingual-mode .hero h1{font-size:35px}.parallel,.sentence .parallel{gap:16px}.parallel-sk,.parallel-reading .parallel-sk{padding-left:16px}.parallel-reading{gap:16px}}@media(max-width:650px){.parallel-nav{min-width:180px}.bilingual-mode nav button{display:flex;align-items:center}.bilingual-mode .hero h1{font-size:28px}.sentence .parallel{font-size:25px}.parallel-reading{font-size:18px;line-height:1.8}.bilingual-mode .exercise{padding:19px}.bilingual-mode .expression{padding:18px}.bilingual-mode .options{grid-template-columns:1fr}.parallel{gap:12px}.parallel-sk,.parallel-reading .parallel-sk{padding-left:12px}.language-tag{font-size:9px}.feedback .answer-sentence .parallel{font-size:21px}}
+
+.bilingual-mode .bank-options{grid-template-columns:1fr}.bank-options .parallel{font-size:19px}.bank-options .parallel-sk{font-size:17px;line-height:1.6}.toolbar .parallel{gap:10px}button>.parallel-copy .language-tag{display:none}.section-head .parallel-copy .language-tag{display:none}.section-head .parallel-copy{font-size:inherit}.card h3 .parallel-copy{font-size:inherit}
+/* Narrow navigation needs full-width lines in each language. */
+aside{min-width:0}
+aside .parallel{grid-template-columns:minmax(0,1fr);gap:7px}
+aside .parallel>span{overflow-wrap:normal;word-break:normal;white-space:normal}
+aside .parallel-sk{border-left:0;padding-left:0}
+aside .parallel-nav{min-width:0;font-size:15px;line-height:1.45}
+aside .parallel-nav .parallel-sk{font-size:14px;color:#bdc9c3}
+aside nav button.active .parallel-sk{color:#e6dfc9}
+/* The old decorative span rule was enlarging every nested translation span. */
+.aside-note>span{font-size:30px;color:#e6be6e}
+.aside-note p .parallel,.aside-note p .parallel>span{font:400 14px/1.65 'DM Sans',Arial,sans-serif;color:#b6c6c0}
+.aside-note p .parallel{gap:16px}
+.aside-note p .parallel .language-tag{font:700 10px/1.5 'DM Sans',Arial,sans-serif;letter-spacing:1.2px;color:#d8bc7c}
+.aside-note p{margin-bottom:0}
+
