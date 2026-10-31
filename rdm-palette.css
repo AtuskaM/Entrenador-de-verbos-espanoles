@@ -112,3 +112,22 @@ button.speaking{border-color:var(--red);color:#ffb0a8;background:rgba(226,64,63,
 .family-note{margin:14px 0 0;font-size:15px;color:var(--muted)}
 .family-done{padding:12px 16px;border-radius:12px;border:1px solid var(--ok);background:rgba(123,216,143,.08);color:var(--ok);font-weight:600;flex-basis:100%}
 @media(max-width:650px){.family-other{margin-right:0}.family-you{margin-left:0}.family-card .family-utterance{font-size:21px}.family-title{font-size:26px}.family-options li p{font-size:17px}}
+/* Language switch: ES · ES + SK · SK */
+#language-modes{display:inline-flex;border:1px solid #28304a;border-radius:12px;overflow:hidden;background:var(--card)}
+#language-modes button{border:0;border-radius:0;background:transparent;color:var(--muted);padding:10px 14px;font-weight:700;font-size:14px;min-height:44px}
+#language-modes button+button{border-left:1px solid #28304a}
+#language-modes button[aria-pressed=true]{background:linear-gradient(#f6d08a,#c8923e);color:#1a1205}
+#language-modes button:hover:not([aria-pressed=true]){color:var(--gold);background:rgba(240,196,115,.08)}
+@media(max-width:650px){#language-modes button{padding:8px 10px;font-size:13px}}
+/* Slovak-only mode: the interface speaks Slovak; practice content stays Spanish. */
+.sk-mode .parallel.sk-only{display:block;width:auto}
+.sk-mode .sk-only>.parallel-es{display:none}
+.sk-mode .sk-only>.parallel-sk{border:0;padding:0;color:inherit;font-size:inherit;font-family:inherit}
+.sk-mode .sk-only>.parallel-sk .language-tag{display:none}
+.sk-mode :is(.sentence,.answer-sentence,.reading-text,.family-utterance,.family-options li p,.guide-example-sentence,.guide-featured>div,.conjugations td,.options button,.bank-options button) .sk-only>.parallel-es{display:block}
+.sk-mode :is(.sentence,.answer-sentence,.reading-text,.family-utterance,.family-options li p,.guide-example-sentence,.guide-featured>div,.conjugations td,.options button,.bank-options button) .sk-only>.parallel-sk{display:none}
+.sk-mode :is(.sentence,.answer-sentence,.reading-text,.family-utterance,.family-options li p,.guide-example-sentence,.guide-featured>div,.conjugations td) .sk-only{cursor:help}
+.sk-mode :is(.sentence,.answer-sentence,.reading-text,.family-utterance,.family-options li p,.guide-example-sentence,.guide-featured>div,.conjugations td) .sk-only.show-sk>.parallel-sk{display:block;margin-top:8px;padding-top:8px;border-top:1px dashed #1f4a50;color:var(--teal);font-size:.82em}
+.sk-mode .meaning-explanation{grid-template-columns:1fr}.sk-mode .meaning-explanation>div[lang=es]{display:none}.sk-mode .meaning-explanation>div+div{border:0;padding:0}
+.sk-tap-hint{display:none}.sk-mode .sk-tap-hint{display:block;margin:10px 0 0;font-size:14px;color:var(--muted)}
+.sk-mode aside nav button{display:flex;align-items:center;gap:4px}

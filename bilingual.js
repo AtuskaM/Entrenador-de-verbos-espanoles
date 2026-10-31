@@ -1,6 +1,8 @@
+function readSkOnlyMode(){try{return localStorage.getItem('rdm-language-mode')==='slovak'}catch{return false}}
 function readLanguageMode(){try{return localStorage.getItem('rdm-language-mode')==='spanish'}catch{return false}}
 function escapeText(s){return String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;')}
-function bi(spanish,slovak,extra=''){if(es||!slovak)return `<span lang="es">${spanish}</span>`;return `<span class="parallel ${extra}"><span class="parallel-es" lang="es">${spanish}</span><span class="parallel-sk" lang="sk">${slovak}</span></span>`}
+function bi(spanish,slovak,extra=''){if(es||!slovak)return `<span lang="es">${spanish}</span>`;return `<span class="parallel ${extra}${skOnly?' sk-only':''}"><span class="parallel-es" lang="es">${spanish}</span><span class="parallel-sk" lang="sk">${slovak}</span></span>`}
+function skHint(){return '<p class="sk-tap-hint">👆 Klepnite na španielsky text a zobrazí sa slovenský preklad.</p>'}
 function dual(value){const bits=String(value).split(' ⟷ ');return bits.length===2?bi(bits[0],bits[1],'parallel-copy'):value}
 const sentenceTranslations={
 'Es alto. Es médico.':'Je vysoký. Je lekár.',
