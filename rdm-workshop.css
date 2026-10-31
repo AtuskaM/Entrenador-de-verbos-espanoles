@@ -178,3 +178,8 @@ header{position:relative}
 @media(min-width:651px){.page-banner[data-banner=rules] .page-banner-copy{right:10%}}
 .page-banner[data-banner=rules] .page-banner-copy{text-shadow:-2px -2px 0 #000,2px -2px 0 #000,-2px 2px 0 #000,2px 2px 0 #000,0 -2px 0 #000,0 2px 0 #000,-2px 0 0 #000,2px 0 0 #000,0 3px 12px #000}
 @media(min-width:651px){.page-banner[data-banner=rules] .page-banner-copy{padding-top:70px}}
+/* Lectura e ideas: title higher and a little to the left, outlined in the bougainvillea pink */
+@media(min-width:651px){.page-banner[data-banner=reading] .page-banner-copy{right:4%;justify-content:flex-start;padding-top:9%}}
+.page-banner[data-banner=reading] .page-banner-copy{text-shadow:-2px -2px 0 #d8145a,2px -2px 0 #d8145a,-2px 2px 0 #d8145a,2px 2px 0 #d8145a,0 -2px 0 #d8145a,0 2px 0 #d8145a,-2px 0 0 #d8145a,2px 0 0 #d8145a,0 3px 12px #000a}
+.page-banner[data-banner=reading] .page-banner-copy{text-shadow:-1px -1px 0 #d8145a,1px -1px 0 #d8145a,-1px 1px 0 #d8145a,1px 1px 0 #d8145a,0 -1px 0 #d8145a,0 1px 0 #d8145a,-1px 0 0 #d8145a,1px 0 0 #d8145a,0 0 8px #d8145acc,0 3px 12px #000a}
+.page-banner[data-banner=reading] .eyebrow{text-shadow:0 0 6px #d8145a,0 2px 8px #000c}
