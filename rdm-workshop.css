@@ -140,3 +140,41 @@ a,.card button,.exercise a{color:#f3d49a}
 .family-options li.family-path{border:2px solid #f3ca76;background:#3a1d33}
 .family-path-label{grid-column:1/-1;font:700 12px/1.4 var(--sans);letter-spacing:1.2px;text-transform:uppercase;color:var(--gold)}
 .family-path-label .parallel{display:inline-flex;width:auto;gap:8px}.family-path-label .parallel-sk{padding-left:8px;border-top:0!important;padding-top:0!important}
+/* voice selector, centred at the top as in the English trainer */
+header{position:relative}
+#voice-settings{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);z-index:60}
+.global-voices{position:relative;margin:0}
+.global-voices>summary{list-style:none;display:flex;flex-direction:column;align-items:center;gap:2px;min-width:56px;min-height:52px;padding:6px 12px;border:1px solid #b69b68;border-radius:9px;background:#2b183e;color:#e8c6f5;font:600 14px/1.2 var(--sans);cursor:pointer}
+.global-voices>summary::-webkit-details-marker{display:none}
+.global-voices>summary:hover,.global-voices[open]>summary{background:#4b2541;border-color:#f3d49a;color:var(--gold)}
+.voice-panel{position:absolute;left:50%;transform:translateX(-50%);top:calc(100% + 8px);width:min(420px,calc(100vw - 24px));padding:18px;background:#251831;border:1px solid #b69b68;border-radius:12px;box-shadow:0 8px 24px #0009;text-align:left}
+.voice-panel label{display:block;margin:10px 0 6px;font-size:15px;color:var(--text)}
+.voice-panel label:first-child{margin-top:0}
+.voice-panel select{width:100%;max-width:100%;padding:9px;background:#1d102c;color:#fff1dd;border:1px solid #b886a0;border-radius:7px;font-size:15px}
+.voice-panel button{margin-top:14px;padding:9px 16px;border-radius:9px;font-weight:600}
+.voice-panel .note{font-size:13px;color:var(--muted);margin:12px 0 0}.voice-panel .note:empty{display:none}
+@media(max-width:900px){#voice-settings{position:static;transform:none;margin-left:auto}header .header-label{display:none}}
+@media(max-width:650px){.voice-panel{position:fixed;left:12px;right:12px;transform:none;top:auto;width:auto;margin-top:8px}.global-voices>summary{min-height:44px;padding:4px 10px;font-size:12px}}
+/* page banner v3: the picture fills the banner at its own 2:1 size (nothing cropped);
+   the title sits over the dark right edge of the picture. */
+.page-banner{display:block;position:relative;aspect-ratio:2/1;min-height:0;background:#12091e}
+.page-banner-art{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.page-banner::before{display:block;content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,transparent 58%,#0a0716b3 70%,#0a0716e6 82%)}
+.page-banner-copy{position:absolute;z-index:2;top:0;bottom:0;right:0;width:31%;display:flex;flex-direction:column;justify-content:center;padding:20px 22px 20px 0}
+.page-banner h1{font-size:clamp(22px,2.3vw,34px)}
+.page-banner .eyebrow{font-size:10px;letter-spacing:1.6px}
+@media(max-width:1000px){.page-banner-copy{width:36%;padding-right:16px}}
+@media(max-width:650px){.page-banner{aspect-ratio:auto;background:linear-gradient(125deg,#552640,#38204f)!important}.page-banner-art{position:static;display:block;aspect-ratio:2/1;height:auto}.page-banner::before{display:none}.page-banner-copy{position:static;width:auto;padding:16px 18px}.page-banner h1{font-size:28px}}
+/* banner: 20% lower, title 10% larger and all in gold */
+@media(min-width:651px){.page-banner{aspect-ratio:2.5/1}}
+.page-banner h1{font-size:clamp(24px,2.53vw,37px)}
+.page-banner h1,.page-banner h1 .parallel-es,.page-banner h1 .parallel-sk,.page-banner h1 .sk-only>.parallel-sk{color:#f5c76a}
+.page-banner .eyebrow{font-size:11px;color:#f5c76a}
+@media(max-width:650px){.page-banner h1{font-size:31px}}
+/* no darkening overlay on the banner picture; a soft shadow keeps the title readable */
+.page-banner::before{display:none!important}
+.page-banner-copy{text-shadow:0 2px 10px #000c,0 0 3px #000a}
+/* Entender la diferencia: title 10% further left, with a black outline instead of a dark gradient */
+@media(min-width:651px){.page-banner[data-banner=rules] .page-banner-copy{right:10%}}
+.page-banner[data-banner=rules] .page-banner-copy{text-shadow:-2px -2px 0 #000,2px -2px 0 #000,-2px 2px 0 #000,2px 2px 0 #000,0 -2px 0 #000,0 2px 0 #000,-2px 0 0 #000,2px 0 0 #000,0 3px 12px #000}
+@media(min-width:651px){.page-banner[data-banner=rules] .page-banner-copy{padding-top:70px}}

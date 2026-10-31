@@ -58,7 +58,7 @@ function drawFamilyEntries(){
  $('#family-previous').onclick=()=>move(-1);$('#family-next').onclick=()=>move(1);
  if($('#family-clear'))$('#family-clear').onclick=()=>{Object.assign(s,{query:'',topic:'all',savedOnly:false});familyResetSelection();renderFamilyLibrary()};
  if(d){
-  const voice=(turn,j)=>turn.you?{text:turn.answers[j||0].es,pitch:.88,pause:450}:{text:turn.es,pitch:1.12,pause:450};
+  const voice=(turn,j)=>turn.you?{text:turn.answers[j||0].es,pitch:.88,pause:450}:{text:turn.es,pitch:1.12,pause:450,second:true};
   document.querySelectorAll('[data-family-say]').forEach(b=>b.onclick=()=>{const turn=d.turns[+b.dataset.familySay];listen([voice(turn,+(b.dataset.familyAnswer||0))])});
   $('#family-listen-all').onclick=()=>listen(d.turns.map(turn=>voice(turn,0)));
   if($('#family-continue'))$('#family-continue').onclick=()=>{s.step++;if(s.step>=d.turns.length-1){const ids=familyStored('rdm-family-practiced');if(!ids.includes(d.id))familyWrite('rdm-family-practiced',[...ids,d.id])}drawFamilyEntries();const turns=document.querySelectorAll('.family-dialogue .family-turn');turns[turns.length-1]?.scrollIntoView({block:'center',behavior:'smooth'})};
