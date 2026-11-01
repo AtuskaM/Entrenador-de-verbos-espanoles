@@ -183,3 +183,32 @@ header{position:relative}
 .page-banner[data-banner=reading] .page-banner-copy{text-shadow:-2px -2px 0 #d8145a,2px -2px 0 #d8145a,-2px 2px 0 #d8145a,2px 2px 0 #d8145a,0 -2px 0 #d8145a,0 2px 0 #d8145a,-2px 0 0 #d8145a,2px 0 0 #d8145a,0 3px 12px #000a}
 .page-banner[data-banner=reading] .page-banner-copy{text-shadow:-1px -1px 0 #d8145a,1px -1px 0 #d8145a,-1px 1px 0 #d8145a,1px 1px 0 #d8145a,0 -1px 0 #d8145a,0 1px 0 #d8145a,-1px 0 0 #d8145a,1px 0 0 #d8145a,0 0 8px #d8145acc,0 3px 12px #000a}
 .page-banner[data-banner=reading] .eyebrow{text-shadow:0 0 6px #d8145a,0 2px 8px #000c}
+/* Lectura e ideas v2: title at the bottom, a little to the right, black outline */
+@media(min-width:651px){.page-banner[data-banner=reading] .page-banner-copy{right:1%;justify-content:flex-end;padding-top:20px;padding-bottom:7%}}
+.page-banner[data-banner=reading] .page-banner-copy{text-shadow:-2px -2px 0 #000,2px -2px 0 #000,-2px 2px 0 #000,2px 2px 0 #000,0 -2px 0 #000,0 2px 0 #000,-2px 0 0 #000,2px 0 0 #000,0 3px 12px #000}
+.page-banner[data-banner=reading] .eyebrow{text-shadow:inherit}
+/* Lectura e ideas v3: title starts at the right edge of the fountain, about 1 cm lower */
+@media(min-width:651px){.page-banner[data-banner=reading] .page-banner-copy{left:62%;right:0;width:auto;padding-bottom:2.6%}}
+@media(min-width:651px){.page-banner[data-banner=reading] .page-banner-copy{left:66%}}
+/* Lectura e ideas (new picture): title under the fountain, on the tiled floor */
+@media(min-width:651px){.page-banner[data-banner=reading] .page-banner-copy{left:69%;right:0;padding-bottom:2.2%}}
+/* Lectura e ideas: trial variation - black letters with a golden outline */
+.page-banner[data-banner=reading] h1,.page-banner[data-banner=reading] h1 .parallel-es,.page-banner[data-banner=reading] h1 .parallel-sk,.page-banner[data-banner=reading] h1 .sk-only>.parallel-sk,.page-banner[data-banner=reading] .eyebrow{color:#120a08}
+.page-banner[data-banner=reading] .page-banner-copy,.page-banner[data-banner=reading] .eyebrow{text-shadow:-2px -2px 0 #f5c76a,2px -2px 0 #f5c76a,-2px 2px 0 #f5c76a,2px 2px 0 #f5c76a,0 -2px 0 #f5c76a,0 2px 0 #f5c76a,-2px 0 0 #f5c76a,2px 0 0 #f5c76a,0 3px 10px #0008}
+/* Lectura e ideas banner: bigger, bolder black letters with a thinner gold outline */
+.page-banner[data-banner=reading] h1{font-size:clamp(28px,2.9vw,43px);font-weight:700}
+.page-banner[data-banner=reading] h1 .parallel-sk{font-weight:700}
+.page-banner[data-banner=reading] .eyebrow{font-size:12px;font-weight:800}
+.page-banner[data-banner=reading] .page-banner-copy,.page-banner[data-banner=reading] .eyebrow{text-shadow:-1px -1px 0 #f5c76a,1px -1px 0 #f5c76a,-1px 1px 0 #f5c76a,1px 1px 0 #f5c76a,0 -1px 0 #f5c76a,0 1px 0 #f5c76a,-1px 0 0 #f5c76a,1px 0 0 #f5c76a,0 2px 8px #0006}
+/* Lectura e ideas banner: letters bigger again, gold outline thinner */
+.page-banner[data-banner=reading] h1{font-size:clamp(32px,3.35vw,50px)}
+.page-banner[data-banner=reading] .eyebrow{font-size:13px}
+.page-banner[data-banner=reading] .page-banner-copy,.page-banner[data-banner=reading] .eyebrow{text-shadow:-.6px -.6px 0 #f5c76a,.6px -.6px 0 #f5c76a,-.6px .6px 0 #f5c76a,.6px .6px 0 #f5c76a,0 -.6px 0 #f5c76a,0 .6px 0 #f5c76a,-.6px 0 0 #f5c76a,.6px 0 0 #f5c76a,0 2px 8px #0006}
+@media(min-width:651px){.page-banner[data-banner=reading] .page-banner-copy{left:67%}}
+.page-banner[data-banner=reading]{container-type:inline-size}
+@media(min-width:651px){.page-banner[data-banner=reading] h1{font-size:4.3cqw;white-space:nowrap}.page-banner[data-banner=reading] .page-banner-copy{padding-right:1%}}
+/* Lectura e ideas banner: final - no gold border; the letters fill that space (black outline = thicker black letters) */
+.page-banner[data-banner=reading] .page-banner-copy,.page-banner[data-banner=reading] .eyebrow{text-shadow:-.6px -.6px 0 #120a08,.6px -.6px 0 #120a08,-.6px .6px 0 #120a08,.6px .6px 0 #120a08,0 -.6px 0 #120a08,0 .6px 0 #120a08,-.6px 0 0 #120a08,.6px 0 0 #120a08}
+/* Lectura e ideas banner: back to black letters with a gold border, plus a soft darkening in the lower-right corner */
+.page-banner[data-banner=reading] .page-banner-copy,.page-banner[data-banner=reading] .eyebrow{text-shadow:-1px -1px 0 #f5c76a,1px -1px 0 #f5c76a,-1px 1px 0 #f5c76a,1px 1px 0 #f5c76a,0 -1px 0 #f5c76a,0 1px 0 #f5c76a,-1px 0 0 #f5c76a,1px 0 0 #f5c76a,0 2px 8px #0006}
+.page-banner[data-banner=reading]::before{display:block!important;content:"";position:absolute;inset:0;z-index:1;pointer-events:none;background:radial-gradient(ellipse 45% 60% at 100% 100%,#0a0716b3,#0a071666 45%,transparent 75%)}
